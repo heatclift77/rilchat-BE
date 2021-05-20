@@ -81,7 +81,7 @@ Object data contains content according to the request
 
 ## 💭 Documentation
 
-[Click Here](https://documenter.getpostman.com/view/10780576/TzCHAV8d)
+Coming soon
 
 ## 💻 FrontEnd
 
