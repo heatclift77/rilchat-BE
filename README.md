@@ -52,20 +52,6 @@ Detail CONFIG GENERAL
 npm run dev
 ```
 
-## 🔖 Standard Response & Preview Request By Postman
-#### Standard Response API
-```json
-{
-    "status": true,
-    "message": "success register",
-    "data": [object Object]
-}
-```
-Object data contains content according to the request
-
-#### Preview Request By Postman
-![Preview](https://i.ibb.co/McdR01S/sample.png)
-
 ## ⛏️ Built Using
 
 - [ExpressJS](https://expressjs.com)
