@@ -41,7 +41,10 @@ Detail CONFIG GENERAL
 | PORT | 6000 |
 | HOST | [http://localhost]() |
 
-4. Done, You can run it in the way below
+4.Create Schema
+<img width=600px height=300px src="https://iili.io/Bk6Uog.jpg" alt="logo"></a>
+
+5. Done, You can run it in the way below
 ##### Developer Mode (with nodemon)
 ```
 npm run dev
