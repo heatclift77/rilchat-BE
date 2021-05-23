@@ -35,15 +35,11 @@ DIR_IMG=http://localhost:xxxx/img
 APP=http://localhost:xxxx # your front end APP port
 
 ```
-Detail CONFIG GENERAL
-| EXAMPLE URL | [http://localhost:6000]() |
-| :-------------: |:-------------:|
-| PORT | 6000 |
-| HOST | [http://localhost]() |
 
 4.Create Schema
+```
 <img width=600px height=300px src="https://iili.io/Bk6Uog.jpg" alt="logo"></a>
-
+```
 5. Done, You can run it in the way below
 ##### Developer Mode (with nodemon)
 ```
