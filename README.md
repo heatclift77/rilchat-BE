@@ -5,6 +5,9 @@
 ## 🧐 About
 This is the repository Backend of the Bootcamp Arkademy task
 
+## 🧐 Schema
+<img width=600px height=300px src="https://iili.io/Bk6Uog.jpg" alt="logo"></a>
+
 ## 💻 Installation
 
 Follow the steps below
@@ -37,9 +40,6 @@ APP=http://localhost:xxxx # your front end APP port
 ```
 
 4.Create Schema
-```
-<img width=600px height=300px src="https://iili.io/Bk6Uog.jpg" alt="logo"></a>
-```
 5. Done, You can run it in the way below
 ##### Developer Mode (with nodemon)
 ```
