@@ -5,7 +5,7 @@
 ## 🧐 About
 This is the repository Backend of the Bootcamp Arkademy task
 
-## 🧐 Schema
+## Show Schema
 <img width=600px height=300px src="https://iili.io/Bk6Uog.jpg" alt="logo"></a>
 
 ## 💻 Installation
