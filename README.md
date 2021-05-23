@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=400px height=200px src="https://ourcodeworld.com/public-media/articles/articleocw-57f3accea486b.png" alt="logo"></a>
-</p>
-
 <h3 align="center">Backend Rillchat Apps</h3>
 
 ---
