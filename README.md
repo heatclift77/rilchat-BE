@@ -3,7 +3,6 @@
  <img width=300px height=120px src="https://iili.io/BrX1P2.png" alt="logo"></a>
 </p>
 <h3 align="center">Backend Rillchat Apps</h3>
----
 
 ## 🧐 About
 This is the repository Backend of the Bootcamp Arkademy task
