@@ -24,8 +24,8 @@ exports.register = (req, res, next) => {
 exports.verifyAcount = (req, res) => {
     const { email } = req.params
     model.verifyAcount(email)
-    .then(response=>{
-        res.redirect(`${process.env.APP}/auth/login`)
+    .then(()=>{
+        res.redirect(`${process.env.APP}`)
     })
     .catch(err =>{
         res.status(err.status).json({message : err.message})

@@ -47,7 +47,6 @@ io.on("connection", (socket) => {
             socket.broadcast.emit("status", {friends:res.data})
         })
     })
-    console.log(socket.rooms)
 })
 
 // res api
